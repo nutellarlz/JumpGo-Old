@@ -1,4 +1,4 @@
-#Web Browser
+#JumpGo
 
 ####Features
 * Bookmarks
@@ -25,15 +25,15 @@
 
 * ````ACCESS_FINE_LOCATION````: For sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled
 
-* ````READ_HISTORY_BOOKMARKS````: To synchronize history and bookmarks between the stock browser and Lightning
+* ````READ_HISTORY_BOOKMARKS````: To synchronize history and bookmarks between the stock browser and JumpGo
 
-* ````WRITE_HISTORY_BOOKMARKS````: To synchronize history and bookmarks between the stock browser and Lightning
+* ````WRITE_HISTORY_BOOKMARKS````: To synchronize history and bookmarks between the stock browser and JumpGo
 
 
 
-Copyright 2013 Anthony Restaino
+Copyright 2015 JTechMe
 
-Web Browser
+JumpGo
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
