@@ -1,5 +1,9 @@
 #JumpGo
 
+####Beta Channel
+* New and untested features and/or updates can be commited here instead of the main branch to maintain stability
+* Once a feature and/or update has been tested and is stable, it can be commited to the master branch
+
 ####Features
 * Bookmarks
 
