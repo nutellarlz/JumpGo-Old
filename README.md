@@ -13,8 +13,6 @@
 
 * Privacy Aware
 
-* HOLOYOLO
-
 ####Permissions Requested and Explained
 
 * ````INTERNET````: For accessing the web
