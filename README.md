@@ -1,4 +1,7 @@
-#JumpGo
+#JumpGo for Older Android Devices
+
+> Warning: This version of JumpGo is intended for devices running Android 2.2(Froyo) through Android 3.2(Honeycomb)
+> If you're running Android 4.0(Ice Cream Sandwich) or greater please use the main JumpGo for Android application found at https://github.com/nutellarlz/JumpGo
 
 ####Features
 * Bookmarks
