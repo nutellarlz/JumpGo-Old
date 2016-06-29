@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\layout\\two_line_autocomplete.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\layout\\two_line_autocomplete.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\layout\\advanced_settings.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\layout\\advanced_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\layout\\menu.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\layout\\settings.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\layout\\settings.xml"
+    }
+]

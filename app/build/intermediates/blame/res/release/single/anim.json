@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\left.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\left.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\right.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\right.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_down.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\down.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\down.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\up.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\up.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_up.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\anim\\rotate.xml",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\anim\\rotate.xml"
+    }
+]

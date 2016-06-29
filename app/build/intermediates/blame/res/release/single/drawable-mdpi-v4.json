@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_refresh.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\loading.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\stop.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\back.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\refresh.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\forward.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exit.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\webpage.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\webpage.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\new_tab.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\new_tab.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\options.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\options.png"
+    },
+    {
+        "merged": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plus.png",
+        "source": "C:\\Users\\PopTart\\StudioProjects\\JumpGo-Old1\\app\\src\\main\\res\\drawable-mdpi\\plus.png"
+    }
+]
